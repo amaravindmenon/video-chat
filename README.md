@@ -1,6 +1,6 @@
 # { video-chat APP }
 
-# Backend => NODE
+# Backend => Node
 
 # Frontend => React
 
